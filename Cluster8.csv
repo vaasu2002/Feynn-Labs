@@ -1,0 +1,60 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+29,Unilever,Bengaluru,Data Scientist,1,0,0,0,AWS,52.444,149000,0,7
+35,Oracle,India,Data Scientist,0,0,0,0,AWS,40.47,132000,0,7
+38,Unilever,Bengaluru,Data Scientist,1,0,0,0,AWS,52.444,149000,0,7
+77,Apple,Bengaluru,ML Engineer,0,1,1,1,Azure,365.82,"1,54,000",0,7
+83,Mercedes-Benz Group AG,Bengaluru,Computer Vision,1,0,1,0,Azure,1600,"1,73,000",0,7
+98,Microsoft,Bengaluru,Senior Data & Applied Scientist,0,0,0,0,Both or Didnt Specift,168,"1,82,268",0,7
+108,Microsoft,Hyderabad,Data Scientist,0,0,0,0,AWS,168,"1,82,268",0,7
+133,Apple,Hyderabad,AI/ML - Data Curation Lead,1,1,1,1,Both or Didnt Specift,365.82,"1,54,000",0,7
+182,Dell Technologies,Karnataka,Data Scientist,0,0,0,0,AWS,94.24,158000,0,7
+190,Mercedes-Benz Group AG,Bengaluru,Data Scientist,1,0,0,0,AWS,1600,"1,73,000",0,7
+199,NTT DATA,Bengaluru,Data Scientist,0,0,0,1,AWS,20.12,139500,0,7
+201,ZF,Hyderabad,Data Scientist,1,1,0,1,Both or Didnt Specift,41.45,147797,0,7
+210,Mercedes-Benz Group AG,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,1600,"1,73,000",0,7
+220,Mercedes-Benz Group AG,Bengaluru,Computer Vision,1,1,0,1,Azure,1600,"1,73,000",0,7
+240,Accenture,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,44,150000,0,7
+245,Microsoft,Bengaluru,Principal Data & Applied Scientist,0,0,0,1,Both or Didnt Specift,168,"1,82,268",0,7
+320,Accenture,Bengaluru,Consultant,0,0,0,0,AWS,44,150000,0,7
+357,Oracle,Remote in Bengaluru,Data Scientist,0,0,0,1,Azure,40.47,132000,0,7
+381,Microsoft,Hyderabad,Data Scientist,0,0,0,1,Azure,168,"1,82,268",0,7
+402,Microsoft,Mumbai,Analytics,1,1,0,0,Both or Didnt Specift,168,"1,82,268",1,7
+473,Oracle,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,40.47,132000,0,7
+482,Accenture,Bengaluru,Consultant,0,1,1,0,Both or Didnt Specift,44,150000,0,7
+483,Dell Technologies,Bengaluru,Analytics,0,1,0,0,AWS,94.24,158000,1,7
+491,Microsoft,Hyderabad,Data Scientist,1,0,1,1,Both or Didnt Specift,168,"1,82,268",0,7
+496,Unilever,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,52.444,149000,0,7
+517,Accenture,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,44,150000,0,7
+538,Accenture,Hyderabad,Data Scientist,1,1,0,0,Both or Didnt Specift,44,150000,0,7
+543,Google,Bengaluru,"Technical Solutions Engineer, Big Data, Google Cloud",0,0,0,0,AWS,256.74,139995,0,7
+544,Accenture,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,44,150000,0,7
+558,Microsoft,Hyderabad,Principal Data & Applied Scientist Manager,1,0,0,0,AWS,168,"1,82,268",0,7
+599,Accenture,Bengaluru,Data Scientist,1,0,0,0,Azure,44,150000,0,7
+601,Accenture,Pune,Data Scientist,0,0,0,1,AWS,44,150000,0,7
+626,Oracle,India,Data Scientist,1,0,0,0,AWS,40.47,132000,0,7
+633,Microsoft,Hyderabad,Data Scientist,1,0,0,1,AWS,168,"1,82,268",0,7
+650,GE Renewable Energy,Bengaluru,Data Scientist,1,0,0,0,AWS,10.3,205000,0,7
+668,Accenture,Hyderabad,Data Scientist,1,0,1,0,AWS,44,150000,0,7
+677,Accenture,Hyderabad,Data Scientist,1,1,0,0,AWS,44,150000,0,7
+684,Google,Bengaluru,Analytics,0,1,0,1,Both or Didnt Specift,256.74,139995,1,7
+688,Aditya Birla Group,Karnataka,Data Scientist,1,1,0,0,AWS,46,140000,0,7
+691,Accenture,Bengaluru,Data Scientist,0,1,0,0,AWS,44,150000,0,7
+696,Unilever,Mumbai,Data Scientist,0,1,0,1,AWS,52.444,149000,0,7
+706,Unilever,Bengaluru,Data Scientist,1,1,0,1,AWS,52.444,149000,0,7
+707,Accenture,India,Data Scientist,0,0,0,0,AWS,44,150000,0,7
+716,Dell Technologies,Bengaluru,Consultant,1,1,0,0,Azure,94.24,158000,0,7
+760,Google,Hyderabad,ML Engineer,1,1,0,1,Azure,256.74,139995,0,7
+766,Microsoft,Bengaluru,ML Engineer,1,1,0,0,Azure,168,"1,82,268",0,7
+776,Microsoft,Hyderabad,Data Scientist,0,0,0,1,AWS,168,"1,82,268",0,7
+779,Oracle,India,Advanced Customer Services - Data Analyst/Scientist,0,0,0,0,Azure,40.47,132000,0,7
+808,Microsoft,Hyderabad,Security Analyst,1,0,0,1,Both or Didnt Specift,168,"1,82,268",0,7
+853,Accenture,Bengaluru,newSenior Analyst-Artificial Intelligence Innovation,0,0,0,0,Azure,44,150000,0,7
+896,Accenture,Pune,Data Scientist,1,1,0,1,AWS,44,150000,0,7
+897,Apple,Bengaluru,ML Engineer,1,1,0,1,Azure,365.82,"1,54,000",0,7
+902,Microsoft,Hyderabad,IDCHE_Data & Applied Scientist,0,0,0,0,Both or Didnt Specift,168,"1,82,268",0,7
+914,Microsoft,Hyderabad,Principal Data & Applied Scientist Manager,1,0,0,0,AWS,168,"1,82,268",0,7
+919,Unilever,Bengaluru,Data Scientist,1,1,0,0,AWS,52.444,149000,0,7
+942,Oracle,Bengaluru,Data Scientist,1,0,0,0,AWS,40.47,132000,0,7
+968,ZF,Hyderabad,ML Engineer,1,0,0,0,Azure,41.45,147797,0,7
+972,GE Corporate,Bengaluru,ML Engineer,1,0,0,0,Azure,74.196,168000,0,7
+976,GE Corporate,Bengaluru,ML Engineer,0,0,0,1,Azure,74.196,168000,0,7
