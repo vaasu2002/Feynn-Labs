@@ -1,0 +1,584 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+2,Kaplan,Bengaluru,Data Scientist,1,0,0,0,AWS,1.3,12000,0,4
+8,3SC Solutions,India,Data Scientist,1,0,0,0,AWS,0.055,221,0,4
+11,Jumio Corporation,Jaipur,Data Scientist,0,0,0,0,AWS,0.0005,1085,0,4
+13,Microland,Bengaluru,Data Scientist,1,1,0,0,AWS,7.62,4500,0,4
+14,Onward Group,Chennai,NLP,1,1,0,1,Azure,0.03,2700,0,4
+17,Indium Software,Remote,Data Scientist,0,1,0,0,AWS,0.0773,2000,0,4
+19,Narayana Health,Bengaluru,Data Scientist,1,1,0,0,AWS,0.42,11261,0,4
+21,citius tech,Remote in Goa,Data Scientist,1,0,1,0,AWS,0.2,600,0,4
+22,AIBridge ML,Hyderabad,Data Scientist,0,0,1,1,AWS,0.05,30,0,4
+23,Confluent,Temporarily Remote,Data Scientist,1,0,1,0,AWS,338.3,1473,0,4
+31,Global Industrial,Mumbai,Data Scientist,0,0,0,0,AWS,1.26,27,0,4
+34,Narayana Health,Bengaluru,Data Scientist,1,1,1,0,AWS,0.42,11261,0,4
+36,Société Générale,Bengaluru,Data Scientist,0,1,0,1,AWS,,20,0,4
+39,dunnhumby,Gurgaon,Data Scientist,0,1,0,0,AWS,0.444,3124,0,4
+41,Coinbase,Remote,Data Scientist,1,0,0,1,AWS,1.14,1249,0,4
+44,Bolt,Bengaluru,Data Scientist,1,0,0,1,AWS,0.221,3818,0,4
+45,umlaut AG,Bengaluru,Data Scientist,0,0,0,0,AWS,0.476,4500,0,4
+47,Fractal.ai,Pune,Data Scientist,1,0,0,0,AWS,0.1,2500,0,4
+48,Confluent,Temporarily Remote,Data Scientist,1,0,0,1,AWS,338.3,1473,0,4
+50,Tredence,Gurgaon,Data Scientist,1,1,0,0,AWS,0.0302,1050,0,4
+51,Casepoint Pvt. Ltd.,Surat,Data Scientist,0,0,0,1,AWS,0.1909,635,0,4
+54,Cliksource,Remote,Data Scientist,0,0,0,0,AWS,0.5,111,0,4
+60,CityLink Technology Solutions,Pune,Data Scientist,0,0,0,0,Both or Didnt Specift,0.005,25,0,4
+62,Sofar Ocean,San,Data Scientist,1,0,0,0,Both or Didnt Specift,0.002,27,0,4
+64,Fractal.ai,Pune,Data Scientist,0,0,0,0,Both or Didnt Specift,0.1,2500,0,4
+66,Walmart Global Tech India,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,40.65,"10,000",0,4
+67,Oportun Inc,Remote in India,Data Scientist,1,1,0,1,Both or Didnt Specift,0.583,"1,474",0,4
+68,Crowe,Noida,Data Scientist,1,0,0,0,Both or Didnt Specift,44,"4,440",0,4
+70,Casepoint Pvt. Ltd.,Surat,Data Scientist,1,0,0,0,Both or Didnt Specift,0.1909,635,0,4
+71,Cygnet Infotech,India,Data Scientist,1,1,0,0,Both or Didnt Specift,0.1521,"1,000",0,4
+73,Vistex Asia-Pacific Private Ltd.,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,0.250,"1,500",0,4
+75,Tredence,Gurgaon,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0302,1050,0,4
+80,Beinex,Kochi,Data Scientist,0,0,0,1,Both or Didnt Specift,0.018,30,0,4
+81,Kwalee,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0283,183,0,4
+84,MABZONE IT SOLUTIONS,Mohali,Data Scientist,0,0,1,1,Both or Didnt Specift,0.005,25,0,4
+85,Paktolus,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.044,43,0,4
+87,Walmart Global Tech India,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,40.65,"10,000",0,4
+93,CityLink Technology Solutions,Pune,Data Scientist,1,0,0,0,Both or Didnt Specift,0.005,25,0,4
+95,The Luxury Closet,Gurgaon,Head of Insights and Data,0,0,0,1,Both or Didnt Specift,0.009,193,0,4
+96,Crowe,Noida,Data Scientist,0,0,0,0,Both or Didnt Specift,44,"4,440",0,4
+97,Onward Group,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,0.03,2700,0,4
+99,Postman,Remote in India,newRemote,1,1,0,0,Both or Didnt Specift,0.815,858,0,4
+104,RedSeer Management Consulting,India,Data Scientist,0,0,0,0,AWS,0.006,139,0,4
+106,Paktolus,Bengaluru,Data Scientist,0,0,0,0,AWS,0.044,43,0,4
+110,BD,Bengaluru,Data Scientist,1,0,0,0,AWS,17.117,76,0,4
+112,Canum Infotech,Bengaluru,Data Scientist,0,1,0,1,AWS,0.0005,25,0,4
+115,Cyient,Hyderabad,Data Scientist,0,0,0,0,AWS,0.570,"10,000",0,4
+116,Snowflake,Pune,Data Scientist,1,0,0,0,AWS,0.592,"2,495",0,4
+120,Agoda Company,Gurgaon,Data Scientist,0,0,0,0,AWS,1.5,"4,000",0,4
+126,Open Insights,Pune,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+137,AIBridge ML,Hyderabad,Data Scientist,0,0,0,0,AWS,0.05,30,0,4
+141,Kaplan,Bengaluru,Data Scientist,1,1,0,1,AWS,1.3,12000,0,4
+147,Tekion,Bengaluru,Data Scientist,1,0,0,0,AWS,0.576,1304,0,4
+148,mPokket,Bengaluru,Data Scientist,0,1,0,0,AWS,0.013,1400,0,4
+151,GO-JEK,Bengaluru,Data Scientist,1,0,1,0,AWS,0.086,563,0,4
+152,Oportun Inc,Remote in India,Data Scientist,1,1,0,1,AWS,0.583,"1,474",0,4
+153,Autodesk,Bengaluru,Data Scientist,0,0,0,0,AWS,3.79,11500,0,4
+155,Ignitarium Technology Solutions,India,Data Scientist,0,0,0,0,AWS,0.0536,289,0,4
+156,Elsevier,Bengaluru,Data Scientist,0,0,0,1,AWS,3.95,8600,0,4
+158,Blinkit,Bengaluru,Data Scientist,1,0,0,0,AWS,0.3,2000,0,4
+159,Sofar Ocean,San,Data Scientist,1,1,0,0,AWS,0.002,27,0,4
+160,McAfee Enterprise,Bengaluru,Data Scientist,1,0,0,1,AWS,2.906,6900,0,4
+161,Surya Systems,Temporarily Remote in Bengaluru,Data Scientist,1,0,0,0,AWS,0.008,45,0,4
+164,Ayla Networks,Bengaluru,Data Scientist,0,0,0,0,AWS,0.021,142,0,4
+165,Qualys,Remote in Pune,Data Scientist,1,0,0,1,AWS,0.363,1500,0,4
+171,Kwalee,Bengaluru,Data Scientist,1,0,0,0,AWS,0.0283,183,0,4
+172,QuestAlliance,Bengaluru,newData and Tech Associate – MyQuest,0,0,0,0,Azure,0.007,120,0,4
+174,Exapas,Pune,Data Scientist,1,1,1,0,AWS,0.0005,20,0,4
+176,Tredence,Gurgaon,Data Scientist,1,0,0,1,AWS,0.0302,1050,0,4
+178,ArrayGen Technologies,Pune,Data Scientist,1,0,0,0,AWS,0.005,25,0,4
+180,ADCI - Karnataka,Hyderabad,Data Scientist,1,0,0,1,AWS,0.0005,20,0,4
+183,Agoda Company,Gurgaon,Data Scientist,1,0,0,0,AWS,1.5,"4,000",0,4
+185,umlaut AG,Bengaluru,Data Scientist,1,0,0,1,AWS,0.476,4500,0,4
+191,GD Research Center,Hyderabad,Data Scientist,0,0,0,0,AWS,0.153,805,0,4
+200,dunnhumby,Gurgaon,Data Scientist,1,1,1,1,Both or Didnt Specift,0.444,3124,0,4
+202,GO-JEK,Bengaluru,Senior Decision Scientist- Incentives,1,0,0,1,Both or Didnt Specift,0.086,563,0,4
+206,Tekion,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.576,1304,0,4
+207,GO-JEK,Bengaluru,Decision Scientist - GoFood,0,0,0,1,Azure,0.086,563,0,4
+209,Kimberly-Clark,Bengaluru,Data Scientist,1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+212,GO-JEK,Bengaluru,Decision Scientist - GoFood,1,1,0,0,Azure,0.086,563,0,4
+213,Spiceworks, Remote,Data Scientist,1,0,0,0,Both or Didnt Specift,0.05,500,0,4
+215,Texas Instruments,Bengaluru,Data Scientist,1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+216,Cyient,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,0.570,"10,000",0,4
+217,Société Générale,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,,20,0,4
+219,Myntra.com,Bengaluru,Data Scientist,0,0,1,0,Both or Didnt Specift,17.19,1614,0,4
+221,Collins Aerospace,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,6.83,5000,0,4
+222,iSOCRATES,Mysore,Data Scientist,1,1,0,0,Both or Didnt Specift,0.013,52,0,4
+227,Aptus Data LAbs,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.023,123,0,4
+228,Cashify,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,0.015,685,0,4
+229,Niramai,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0226,60,0,4
+230,WHITE FORCE OUTSOURCING SERVICES PRIVATE LIMITED,Delhi,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+231,Mobiquity,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,0.07,650,0,4
+232,Siemens Technology and Services Private Limited,Bengaluru,Analytics,1,0,0,0,Azure,0.0005,20,1,4
+233,Impiger Technologies,Chennai,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+235,GO-JEK,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.086,563,0,4
+236,Kimberly-Clark,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+237,AISPL - Karnataka,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+239,Schneider Electric,Bengaluru,Data Scientist,1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+241,Beinex,Kochi,Data Scientist,0,0,1,1,Both or Didnt Specift,0.018,30,0,4
+243,Ola Cabs,Bengaluru,Data Scientist,1,1,1,0,Both or Didnt Specift,0.34,3000,0,4
+244,Great Learning,Bengaluru,Data Scientist,1,1,0,1,Both or Didnt Specift,0.043,2007,0,4
+246,Wells Fargo,Bengaluru,NLP,1,1,0,0,Azure,0.0005,20,0,4
+247,Acuity Knowledge Partners,Bengaluru,Data Scientist,0,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+249,Cyient,Hyderabad,Data Scientist,0,0,0,1,Both or Didnt Specift,0.570,"10,000",0,4
+250,Onward Group,Bengaluru,Data Engineer,1,1,0,1,Both or Didnt Specift,0.03,2700,1,4
+251,ADCI - Karnataka,Bengaluru,"newApplied Scientist II, Natural Language Understanding, Alexa...",1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+254,RealPage,Hyderabad,Data Scientist,0,0,0,1,Both or Didnt Specift,1.16,10000,0,4
+255,Dun & Bradstreet,Mumbai,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+256,HERE Technologies,Mumbai,Computer Vision,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+258,mPokket,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.013,1400,0,4
+259,Coursera,India,Data Scientist,0,0,0,0,Both or Didnt Specift,0.2935,1792,0,4
+260,State Street,Hyderabad,Data Engineer,0,0,0,0,Azure,11.7,5000,1,4
+261,Harman International,Bengaluru,Data Scientist,0,0,1,0,Both or Didnt Specift,0.0005,20,0,4
+262,WishFin,Noida,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0464,140,0,4
+264,NEC Opportunities,Delhi,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+266,Institutional Shareholder Services,Mumbai,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+267,Expedia Group,Gurgaon,Analytics,1,0,0,0,Both or Didnt Specift,0.0005,20,1,4
+268,GO-JEK,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,0.086,563,0,4
+269,BOEING,Bengaluru,Consultant,1,0,1,0,Both or Didnt Specift,0.0005,20,0,4
+270,Lingaro Group,Remote in India,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+272,Ola Cabs,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.34,3000,0,4
+273,QuestAlliance,Bengaluru,newData and Tech Associate – MyQuest,1,1,0,0,Azure,0.007,120,0,4
+275,ADCI - Karnataka,Bengaluru,"newApplied Scientist II, Natural Language Understanding, Alexa...",0,0,1,1,Both or Didnt Specift,0.0005,20,0,4
+276,GE Digital,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+277,Paytm,India,Data Scientist,0,0,0,0,Both or Didnt Specift,0.14,11500,0,4
+279,LeadSquared,India,NLP,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+280,Inspirion Digital Solutions,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+281,GE Healthcare,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+283,Paytm,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,0.14,11500,0,4
+285,Concentrix,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+286,RELX,Chennai,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+288,Salesforce,Hyderabad,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+289,Elpis IT Solutions,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+290,Tala,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+291,Eclerx,Mumbai,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+292,Fundnel Pte Ltd,Mumbai,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+293,Paytm,Delhi,Data Scientist,1,0,0,1,Both or Didnt Specift,0.14,11500,0,4
+295,Fractal.ai,Bengaluru,Analytics,1,0,0,1,Azure,0.1,2500,1,4
+296,Careator Technologies,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+297,GO-JEK,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.086,563,0,4
+298,Deal4loans,Noida,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+299,AstraZeneca,Bengaluru,Consultant,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+300,VM3 Tech Solutions,Pune,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+301,Bolt,Bengaluru,Data Scientist,1,1,0,1,Azure,0.221,3818,0,4
+302,dunnhumby,Gurgaon,Data Scientist,0,1,0,1,Azure,0.444,3124,0,4
+305,TeamPlus Staffing Solution Pvt Ltd,Bengaluru,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+306,HR Inc Consultants,India,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+308,QSSOT Technology,Coimbatore,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+309,Transorg Analytics,Remote in Gurgaon,Data Scientist,1,1,0,1,Azure,0.0005,20,0,4
+311,Baker Hughes,Bengaluru,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+312,IHCC,Karnataka,Data scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+313,GenieTalk,Indore,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+314,Nihilent,Gurgaon,Data Scientist,1,0,0,1,Azure,0.0005,20,0,4
+315,Zscaler,Bengaluru,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+316,MobiKwik,Gurgaon,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+317,Technovert,Remote in Hyderabad,Data Scientist,1,0,0,1,Azure,0.0005,20,0,4
+319,Toluna,Gurgaon,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+321,SoulPage IT Solutions,Hyderabad,Data Scientist,0,1,0,1,Azure,0.0005,20,0,4
+322,Rockwell Automation,Gurgaon,Data Scientist,1,0,1,1,Azure,0.0005,20,0,4
+323,Apptio,Bengaluru,Data Scientist,1,1,0,1,Azure,0.0005,20,0,4
+324,Acesoft Labs,Remote in Bengaluru,Data Scientist,0,1,0,1,Azure,0.0005,20,0,4
+325,Eclerx,Pune,Data Scientist,0,0,1,0,Azure,0.0005,20,0,4
+326,UBS,India,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+328,Dexlock,Kanayannur,Data Scientist,1,1,0,0,Azure,0.0005,20,0,4
+329,Ninjacart,Bengaluru,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+331,PAGO Analytics,Hyderabad,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+332,Exapas,Pune,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+333,GO-JEK,Bengaluru,Data Scientist,1,0,0,1,Azure,0.086,563,0,4
+335,Global Industrial,Mumbai,Data Scientist,1,0,0,0,Azure,1.26,27,0,4
+336,Ameriprise Financial,Noida,Data Scientist,0,0,1,0,Azure,0.0005,20,0,4
+337,ADCI HYD 13 SEZ,Hyderabad,"newApplied Scientist I, Amazon Business",0,0,0,0,AWS,0.0005,20,0,4
+338,Danaher Digital,Bengaluru,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+339,Henkel,Navi Mumbai,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+341,Sanofi,Hyderabad,RWE Data Analyst/ Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+342,Groupon,Bengaluru,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+343,NielsenIQ,Vadodara,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+344,Ormae,Bengaluru,Data Scientist,1,0,0,1,Azure,0.0005,20,0,4
+346,XenonStack,Chandigarh,Data Scientist,0,1,1,0,Azure,0.0005,20,0,4
+348,Citi,Pune,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+349,Concentrix,Gurgaon,Data Scientist,0,0,1,1,Azure,0.0005,20,0,4
+350,Walmart Global Tech India,Bengaluru,ML Engineer,1,0,0,0,AWS,40.65,"10,000",0,4
+351,Aspire Systems,Chennai,Data Scientist,1,1,0,0,Azure,0.0005,20,0,4
+352,ALTIMETRIK Inc,Chennai,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+355,Country Veggie,Agra,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+358,Cyient,Hyderabad,Data Scientist,0,1,1,0,Azure,0.570,"10,000",0,4
+360,Travel Centric Technology,Bengaluru,Data Scientist,1,0,0,1,Azure,0.0005,20,0,4
+361,GO-JEK,Bengaluru,Data Scientist,0,1,1,1,Azure,0.086,563,0,4
+363,Lingaro Group,Remote in India,Data Scientist,0,1,0,1,Azure,0.0005,20,0,4
+364,Baker Hughes,India,Data Scientist,1,1,0,0,Azure,0.0005,20,0,4
+365,Baker Hughes,Bengaluru,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+366,iCliniq,Coimbatore,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+367,Scienaptic Systems,Bengaluru,Data Scientist,0,0,1,1,Azure,0.0005,20,0,4
+368,Affine,Hyderabad,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+369,PwC,Kolkata,Analytics,1,1,0,0,AWS,0.0005,20,1,4
+370,Cargill,Bengaluru,Data Scientist,0,1,0,0,Azure,0.0005,20,0,4
+371,AppsTek Corp,Hyderabad,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+372,ADCI - Karnataka,Hyderabad,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+374,Verizon,Chennai,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+375,Tekion,Bengaluru,Data Scientist,1,0,0,0,Azure,0.576,1304,0,4
+376,Danaher Digital,Bengaluru,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+377,Atlas Copco (India) Ltd.,Pune,Analytics,1,0,0,0,AWS,0.0005,20,1,4
+378,Niramai,Bengaluru,Data Scientist,1,0,0,0,Azure,0.0226,60,0,4
+379,ADCI HYD 13 SEZ,Hyderabad,Senior Research Scientist- Alexa Data Services,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+380,Nissan,Thiruvananthapuram,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+382,Tekion,Bengaluru,Data Scientist,0,1,0,0,Azure,0.576,1304,0,4
+383,VMock Inc,Gurgaon,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+384,StratLytics,Bhubaneshwar,NLP,1,0,1,1,Azure,0.0005,20,0,4
+385,SearchUrCollege,Noida,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+386,Entytle,Pune,Data Scientist,1,0,0,0,Azure,0.0005,20,0,4
+387,PwC,Bengaluru,Data Scientist,1,0,1,0,Azure,0.0005,20,0,4
+389,TomTom,Remote in Pune,Data Scientist,1,0,0,0,Azure,0.759,4500,0,4
+391,ITOrizon,Bengaluru,Data Scientist,1,0,0,1,Azure,0.021,140,0,4
+392,Tokopedia,India,Data Scientist,1,1,0,0,Azure,28.6,4700,0,4
+393,Ayla Networks,Bengaluru,Data Scientist,0,0,0,1,Azure,0.021,142,0,4
+394,BMC Software,Pune,Data Scientist,1,0,0,1,Azure,2,6000,0,4
+395,Imurgence,India,Consultant,0,0,1,1,Azure,0.0005,20,0,4
+399,Swiggy,Bengaluru,Data Scientist,0,0,0,0,Azure,0.37,11086,0,4
+400,ZL Technologies,Hyderabad,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+401,AppsTek Corp,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+403,Kpler,Remote,Data scientist Manager,0,0,0,0,Both or Didnt Specift,0.036,150,0,4
+404,PhonePe,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,6.9,2500,0,4
+405,Tredence,Gurgaon,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0302,1050,0,4
+406,Mount Talent Consulting,Remote in Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+408,Adobe,Noida,Computer Vision,0,0,0,0,AWS,12.86,11847,0,4
+413,2COMs,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+415,GE Digital,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+417,Agoda Company,Gurgaon,Data Scientist,1,1,0,0,Both or Didnt Specift,1.5,"4,000",0,4
+418,Medline Industries,Pune,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+419,ADCI - Karnataka,Bengaluru,Data Scientist,1,0,1,1,Both or Didnt Specift,0.0005,20,0,4
+420,Hitachi Vantara Corporation,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+422,Fractal.ai,Mumbai,NLP,0,0,0,0,AWS,0.1,2500,0,4
+423,Atlas Copco (India) Ltd.,Pune,Data Engineer,1,0,0,0,Both or Didnt Specift,0.0005,20,1,4
+424,Codelogicx Technologies Private Limited,West Bengal,ML Engineer,1,0,0,0,AWS,0.0005,20,0,4
+428,Great Learning,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,0.043,2007,0,4
+429,QSSOT Technology,Coimbatore,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+430,CustomerXPs,Bengaluru,Data Scientist,1,0,1,0,Both or Didnt Specift,0.0005,20,0,4
+431,ValueLabs,Hyderabad,ML Engineer,1,0,0,1,AWS,0.9189,5222,0,4
+433,StatusNeo Technology Consulting,Gurgaon,Data Scientist,1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+436,Gridlogic,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0005,200,0,4
+437,Careator Technologies,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+438,Intuit,Bengaluru,ML Engineer,0,1,0,1,AWS,9.633,10600,0,4
+439,Kanini Software Solutions,Chennai,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+440,Inspirion Digital Solutions,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+441,Indian Institute of Digital Education,India,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+443,Credit Suisse,Pune,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+445,Innoplexus,Pune,Data Scientist,0,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+446,Crimson Interactive,Mumbai,Data Scientist,1,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+448,PREZENTIUM,India,ML Engineer,0,0,0,0,AWS,0.0005,20,0,4
+449,Colgate-Palmolive,Mumbai,Data Scientist,1,0,0,0,Both or Didnt Specift,15.693,1130,0,4
+451,Imurgence,India,Consultant,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+452,ADCI HYD 13 SEZ,Hyderabad,Applied Scientist - II,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+454,Cargill,Bengaluru,Software Engineer,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+457,CTD Techs,Chennai,Data Scientist,0,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+459,StratLytics,Bhubaneshwar,NLP,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+462,Claim Genius Making touchless claims a reality,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+463,Sybrant Data,Chennai,Data Scientist,0,0,0,1,Both or Didnt Specift,0.024,264,0,4
+464,Myntra.com,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,17.19,1614,0,4
+466,Ericsson,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+467,Salesforce,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+468,Blue Yonder,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+469,[24]7.ai,Bengaluru,Data Scientist,0,1,1,0,Both or Didnt Specift,0.0005,20,0,4
+470,Sony India Software Centre Pvt Ltd,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+472,Innoplexus,Pune,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+474,NielsenIQ,Vadodara,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+477,Kwalee,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0283,183,0,4
+479,Khoros,Bengaluru,newLead Data Analyst,0,1,0,0,Both or Didnt Specift,0.2,1000,0,4
+480,mediaagility,Remote in Gurgaon,ML Engineer,1,0,0,0,AWS,0.0005,20,0,4
+485,ADCI HYD 13 SEZ,Hyderabad,Senior Research Scientist- Alexa Data Services,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+486,ArrayGen Technologies,Pune,Data Scientist,1,1,0,0,Both or Didnt Specift,0.005,25,0,4
+488,Gridlogic,Hyderabad,Data Scientist,0,0,1,1,Both or Didnt Specift,0.0005,200,0,4
+489,Crimson Interactive,Mumbai,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+490,Spotflock,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+492,Bain & Company,Bengaluru,Data Scientist,0,1,0,1,Both or Didnt Specift,0.0005,20,0,4
+493,Narayana Health,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.42,11261,0,4
+495,KPIT Technologies GmbH,Pune,Data Scientist,1,0,0,0,Both or Didnt Specift,0.291,7125,0,4
+497,Impact Guru,Mumbai,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,68,0,4
+498,Crypto Mize,Delhi,Data Scientist,1,1,0,0,Both or Didnt Specift,0.002,22,0,4
+499,Dunzo,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,0.137,669,0,4
+503,Nissan,Thiruvananthapuram,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+506,Innefu Labs Pvt. Ltd.,Delhi,Data Scientist,0,1,0,0,Both or Didnt Specift,0.003,23,0,4
+507,MobiKwik,Gurgaon,Data Scientist,1,0,1,0,Both or Didnt Specift,0.0005,20,0,4
+508,Spiceworks,Temporarily Remote in Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,0.05,500,0,4
+509,EVC Ventures,Gurgaon,Data Scientist,0,1,0,0,Both or Didnt Specift,0.062,293,0,4
+510,Institutional Shareholder Services,Mumbai,Data Scientist,0,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+512,West Pharmaceutical Services,Bengaluru,Data Scientist,0,1,0,1,Both or Didnt Specift,2,9200,0,4
+513,The Neotia University,West Bengal,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,94,0,4
+515,Wavemaker,Mumbai,Data Scientist,1,0,0,0,Both or Didnt Specift,2,7200,0,4
+516,Henkel,Navi Mumbai,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+518,Travel Centric Technology,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+522,CareerXperts,India,ML Engineer,0,0,0,0,AWS,0.0035,23,0,4
+523,Ameriprise Financial,Noida,Data Scientist,1,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+525,Pivotchain Solution Technologies,Pune,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0025,24,0,4
+527,TomTom,Remote in Pune,Data Scientist,0,0,1,0,Both or Didnt Specift,0.759,4500,0,4
+528,Aspire HR Solutions,Thiruvananthapuram,Data Scientist,1,0,0,0,Both or Didnt Specift,0.015,90,0,4
+529,Onward Group,Bengaluru,Data Engineer,1,1,0,0,AWS,0.03,2700,1,4
+530,Information Services Group,Bengaluru,Data Scientist,0,1,0,1,Both or Didnt Specift,0.265,1287,0,4
+531,DeepQuanty Artificial Intelligence Labs,Chennai,Data Scientist,1,0,0,0,Both or Didnt Specift,0.003,21,0,4
+533,Oportun Inc,Chennai,Data Scientist,0,0,0,0,Both or Didnt Specift,0.583,"1,474",0,4
+535,GO-JEK,Bengaluru,Data Scientist,0,0,1,1,Both or Didnt Specift,0.086,563,0,4
+536,Toluna,Gurgaon,Data Scientist,1,1,0,0,Both or Didnt Specift,0.0005,20,0,4
+539,iGloble Solutions,Pune,Data Scientist,1,0,0,1,Both or Didnt Specift,0.004,22,0,4
+542,Kovai.co,Coimbatore,Data Scientist,1,0,1,0,Both or Didnt Specift,0.001,147,0,4
+545,Country Veggie,Agra,Data Scientist,0,1,1,0,Both or Didnt Specift,0.0005,20,0,4
+547,Claim Genius Making touchless claims a reality,Hyderabad,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+548,ADCI - Karnataka,Bengaluru,"newApplied Scientist II, Amazon Go",1,0,0,1,AWS,0.0005,20,0,4
+549,Innominds Software,Hyderabad,Data Scientist,1,1,0,0,Both or Didnt Specift,0.005,50,0,4
+550,StatusNeo Technology Consulting,Gurgaon,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+552,GO-JEK,Bengaluru,Decision Scientist - Driver Ops,0,0,0,0,AWS,0.086,563,0,4
+553,Krea University,Chittoor,Data Scientist,1,0,0,0,Azure,0.018,140,0,4
+554,LatentBridge,New Delhi,ML Engineer,0,1,0,0,AWS,0.0005,25,0,4
+555,Logitech,Chennai,Data Scientist,1,1,0,0,Azure,5.252,9000,0,4
+557,BDB,Bengaluru,Data Scientist,0,0,1,0,Azure,0.0086,80,0,4
+559,dunnhumby,Gurgaon,Data Scientist,0,0,0,0,Azure,0.444,3124,0,4
+560,GLOINNT,Bengaluru,Data Scientist,0,0,0,0,Azure,0.0226,70,0,4
+561,Wise Monk,Remote,Data Scientist,0,0,0,0,Azure,0.06,40,0,4
+562,Techvantage Systems,Thiruvananthapuram,Data Scientist,1,0,0,0,Azure,0.015,35,0,4
+563,ZS,Gurgaon,Data Scientist,1,0,0,0,Azure,2,10000,0,4
+564,Bid Ocean,India,ML Engineer,0,1,0,0,AWS,0.05,20,0,4
+565,Rockwell Automation,Gurgaon,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+568,Truedge Software Solutions,Hyderabad,"Technology head Data science, data analytics background",0,0,0,1,AWS,0.5,300,0,4
+570,Grid Logic Software Private Limited,Hyderabad,Data Scientist,0,0,0,0,Azure,0.0045,25,0,4
+572,PharmaACE,Pune,Consultant,1,0,0,0,AWS,0.071,325,0,4
+573,Joveo,Hyderabad,Data Scientist,0,0,0,0,Azure,0.020,100,0,4
+574,Cybage,Remote,ML Engineer,0,0,0,0,AWS,1,6300,0,4
+575,ZS,Gurgaon,Data Scientist,0,0,0,0,Azure,2,10000,0,4
+576,iSOCRATES,Mysore,Data Scientist,1,1,0,1,Azure,0.013,52,0,4
+577,Affine,Hyderabad,Data Scientist,1,0,0,1,Azure,0.0005,20,0,4
+581,Baker Hughes,Bengaluru,ML Engineer,0,1,0,0,AWS,0.0005,20,0,4
+582,Harman International,Bengaluru,Analytics,1,0,0,1,Azure,0.0005,20,1,4
+583,Walmart Global Tech India,Bengaluru,Data Scientist,1,1,1,0,Azure,40.65,"10,000",0,4
+584,Salesforce,Hyderabad,Data Scientist,0,0,1,0,Azure,0.0005,20,0,4
+585,Credit Saison,Bengaluru,Lead data scientist,0,0,0,1,Both or Didnt Specift,0.414,3575,0,4
+586,ADCI - Karnataka,Bengaluru,Data Scientist,0,0,0,0,Azure,0.0005,20,0,4
+588,Upstox,Mumbai,Data Scientist,0,0,1,0,Azure,0.4568,2285,0,4
+589,RedLotus,Mumbai,Data Scientist,0,0,0,0,Azure,0.0039,21,0,4
+591,Entytle,Pune,Data Scientist,1,0,1,0,Azure,0.0005,20,0,4
+592,"Ryan, LLC",Hyderabad,Data Engineer,0,0,0,1,Azure,0.446,3000,1,4
+593,Radware,Bengaluru,Data Scientist,1,0,0,0,Azure,0.25,1122,0,4
+594,GO-JEK,Bengaluru,Head of Data - Risk,1,0,0,0,Azure,0.086,563,0,4
+595,Aspire HR Solutions,Thiruvananthapuram,Data Scientist,1,0,0,0,Azure,0.015,90,0,4
+596,Shivark, Punjab,Big Data Developers,0,1,0,0,Azure,0.0005,20,0,4
+597,VMock Inc,Gurgaon,Data Scientist,0,0,0,1,Azure,0.0005,20,0,4
+600,BDB,Bengaluru,Data Scientist,0,1,0,1,AWS,0.0086,80,0,4
+602,Adobe,Noida,Data Engineer,0,1,0,1,AWS,12.86,11847,1,4
+603,Samyak Infotech,Ahmedabad,ML Engineer,0,1,0,0,Azure,0.022,118,0,4
+604,Zauba Corp,Bengaluru,Data Scientist,0,1,0,0,AWS,0.0005,20,0,4
+605,Blue Yonder,Bengaluru,Consultant,1,1,1,0,AWS,0.0005,20,0,4
+606,Sony India Software Centre Pvt Ltd,Bengaluru,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+607,Technovatrix,India,Analytics,1,0,0,1,Both or Didnt Specift,0.0005,20,1,4
+609,Bolt,Bengaluru,ML Engineer,0,0,1,0,Azure,0.221,3818,0,4
+610,Acuity Knowledge Partners,Bengaluru,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+611,Aligned Automation,Pune,ML Engineer,0,0,0,0,Azure,0.024,125,0,4
+612,Linkites,Indore,ML Engineer,0,0,0,0,Azure,0.02,108,0,4
+613,2basetechnologies,Kochi,Data Scientist,0,0,0,0,AWS,0.012,69,0,4
+615,Fundnel Pte Ltd,Mumbai,Data Scientist,1,1,1,1,AWS,0.0005,20,0,4
+616,ZS,Bengaluru,Consultant,1,0,0,0,Azure,2,10000,0,4
+617,ADCI PNQ 13 SEZ,Pune,newBusiness Intelligence Engineer,1,0,0,0,Azure,0.0005,20,0,4
+618,PhonePe,Bengaluru,Data Scientist,1,0,0,0,AWS,6.9,2500,0,4
+620,Exeliq Consulting,Kandivali,Data Scientist,0,1,0,0,AWS,0.004,22,0,4
+621,AIBridge ML,Hyderabad,Data Scientist,1,0,0,1,AWS,0.05,30,0,4
+623,AWS ProServe IN - Karnataka,Bengaluru,Data Scientist,1,1,0,0,AWS,0.0005,20,0,4
+624,Aruba Networks,Bengaluru,Software Engineer,1,1,0,1,Both or Didnt Specift,3,7000,0,4
+628,GO-JEK,Bengaluru,Data Scientist,1,1,0,0,AWS,0.086,563,0,4
+629,mediaagility,Remote in Gurgaon,ML Engineer,1,1,0,0,Azure,0.0005,20,0,4
+630,ZunRoof Tech,Gurgaon,Data Scientist,1,0,0,0,AWS,0.007,40,0,4
+631,ERM Group,India,Data Scientist,1,0,0,0,AWS,1,5500,0,4
+634,KPIT Technologies GmbH,Pune,Data Scientist,0,1,0,0,AWS,0.291,7125,0,4
+636,GO-JEK,Bengaluru,Data Scientist,0,1,0,0,AWS,0.086,563,0,4
+637,iSOCRATES,Mysore,Data Scientist,1,1,0,1,AWS,0.013,52,0,4
+638,ADCI HYD 13 SEZ,Hyderabad,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+640,Techlive,Noida,Data Scientist,0,1,0,0,AWS,0.007,37,0,4
+641,HR Inc Consultants,India,Data Scientist,0,0,1,1,AWS,0.0005,20,0,4
+642,GO-JEK,Bengaluru,Data Scientist,0,0,0,0,AWS,0.086,563,0,4
+644,Atlas Copco (India) Ltd.,Pune,Analytics,1,1,0,0,AWS,0.0005,20,1,4
+645,Lingaro Group,Remote in India,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+646,Monotype,Noida,Data Scientist,0,0,0,1,AWS,0.126,600,0,4
+647,Knight FinTech,India,ML Engineer,1,0,1,0,Azure,0.017,80,0,4
+648,UBS,India,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+649,Prompt Softech,Ahmedabad,Data Scientist,0,1,0,1,AWS,0.024,126,0,4
+651,ZS,Gurgaon,Consultant,0,0,0,1,AWS,2,10000,0,4
+652,GO-JEK,Bengaluru,ML Engineer,0,1,0,1,Azure,0.086,563,0,4
+653,ZS,Pune,Analytics,1,0,0,1,Both or Didnt Specift,2,10000,1,4
+654,Sony India Software Centre Pvt Ltd,Bengaluru,ML Engineer,0,0,0,1,Azure,0.0005,20,0,4
+655,FactSet Research Systems,Hyderabad,Data Scientist,1,1,0,0,AWS,1.49,10892,0,4
+656,PREZENTIUM,India,ML Engineer,0,0,0,0,Azure,0.0005,20,0,4
+658,EDGE Networks,Remote in Bengaluru,Data Scientist,1,0,0,0,AWS,0.0158,109,0,4
+659,Augusta Infotech,Mumbai,NLP,1,0,0,0,Azure,0.005,25,0,4
+660,OptiSol,Chennai,ML Engineer,0,1,0,1,Azure,0.026,185,0,4
+661,Tavant Technologies,Bengaluru,Data Scientist,0,0,0,0,AWS,0.223,2500,0,4
+664,ADCI - Karnataka,Bengaluru,newSenior Applied Scientist,0,0,1,1,AWS,0.0005,20,0,4
+665,ITH Technologies,Kanpur,ML Engineer,0,0,0,0,Azure,0.0005,200,0,4
+666,Bain & Company,Bengaluru,Data Scientist,1,0,0,1,AWS,0.0005,20,0,4
+669,Affinity Express,Pune,Analytics,1,1,0,0,AWS,0.012,20,1,4
+670,Icertis,India,Data Scientist,1,0,0,0,AWS,0.165,1700,0,4
+672,Khoros,Bengaluru,newLead Data Analyst,1,0,0,1,Both or Didnt Specift,0.2,1000,0,4
+673,Nissan,Thiruvananthapuram,Data Scientist,0,0,0,1,AWS,0.0005,20,0,4
+674,Zebra Technologies,Bengaluru,Data Scientist,1,0,0,1,AWS,4.448,8800,0,4
+675,Ericsson,Bengaluru,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+676,Fractal.ai,Bengaluru,Analytics,1,1,1,0,AWS,0.1,2500,1,4
+678,CRED,Bengaluru,collections strategy and analytics,1,0,0,1,AWS,0.000069,839,0,4
+679,Oportun Inc,Remote in Chennai,Analytics,0,1,0,1,Azure,0.583,"1,474",1,4
+680,Myntra.com,Bengaluru,Data Scientist,0,0,0,0,AWS,17.19,1614,0,4
+682,Applogic,Hyderabad,Data Scientist,0,0,0,0,AWS,0.005,25,0,4
+683,Mercedes-Benz Research and Development India...,Bengaluru,ML Engineer,0,1,0,0,Azure,0.739,3500,0,4
+685,Tookitaki,Bengaluru,Data Scientist,1,0,0,0,AWS,0.013,65,0,4
+686,Supro info Solution,Remote in India,Computer Vision,1,0,0,1,Both or Didnt Specift,0.005,25,0,4
+687,Harman International,Bengaluru,Analytics,1,1,0,0,AWS,0.0005,20,1,4
+690,SMEcorner,Mumbai,NLP,0,0,0,0,Both or Didnt Specift,0.03,300,0,4
+693,CDM Smith,Bengaluru,Data Scientist,1,1,1,0,AWS,0.952,5000,0,4
+694,Tredence,Chennai,Data Scientist,0,0,1,0,AWS,0.0302,1050,0,4
+697,xtLytics,Noida,Data Scientist,1,0,1,1,AWS,0.007,39,0,4
+698,CareerXperts,Remote in India,Data Scientist,1,0,0,1,AWS,0.0035,23,0,4
+700,Lingaro Group,Remote in India,Data Engineer,1,0,0,0,Both or Didnt Specift,0.0005,20,1,4
+704,Zippin,Remote in Hyderabad,Software Engineer,0,1,0,1,Both or Didnt Specift,0.0052,77,0,4
+705,NOVIQUE HEALTH,Mumbai,Data Scientist,1,0,0,0,AWS,0.005,25,0,4
+708,AWS ProServe IN - Karnataka,Bengaluru,Data Scientist,0,1,0,0,AWS,0.0005,20,0,4
+709,NeenOpal,Bengaluru,Analytics,0,0,0,1,Azure,0.00161,30,1,4
+710,WSD Consultant,Gurgaon,Data Scientist,1,0,0,0,AWS,0.005,25,0,4
+713,Axslogic,Gurgaon,Data Scientist,1,1,0,0,AWS,0.005,26,0,4
+717,Perfios,Bengaluru,Applied Scientist,0,0,0,1,Azure,0.0369,436,0,4
+718,TheMathCompany,Bengaluru,Data Scientist,0,0,0,0,AWS,0.0206,867,0,4
+719,Alpha ICT LLP,Pune,DATA SCIENTIST,1,1,0,1,Both or Didnt Specift,0.005,25,0,4
+721,Happymonk Technology,Bengaluru,AI Engineer,1,0,0,1,AWS,0.0005,20,0,4
+722,Impiger Technologies,Chennai,Data Scientist,0,0,1,0,AWS,0.0005,20,0,4
+724,TIGI HR SOLUTION,Remote in Mumbai,Data Scientist,1,0,1,0,AWS,0.005,30,0,4
+725,Deutsche Bank,Pune,Data Scientist,1,0,0,0,AWS,113.49,294,0,4
+726,Icertis,Remote in Pune,Data Scientist,1,0,0,1,AWS,0.165,1700,0,4
+727,Ignitarium Technology Solutions,India,Computer Vision,0,1,0,0,Both or Didnt Specift,0.0536,289,0,4
+729,Ignitarium Technology Solutions,India,Deep Learning Engineer- Audio,1,1,0,0,AWS,0.0536,289,0,4
+730,UBS,Pune,Data Scientist,1,1,0,1,AWS,0.0005,20,0,4
+732,AstraZeneca,Bengaluru,Consultant,1,0,0,1,Azure,0.0005,20,0,4
+733,Codelogicx Technologies Private Limited,West Bengal,ML Engineer,0,0,0,0,Azure,0.0005,20,0,4
+734,Dun & Bradstreet,Hyderabad,Data Operations Analyst (R-10567),1,1,1,1,Azure,0.0005,20,0,4
+735,ZS,Gurgaon,Data Scientist,1,1,0,1,AWS,2,10000,0,4
+736,TeamPlus Staffing Solution Pvt Ltd,Remote,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+740,Helius Technologies,India,Data Scientist,1,0,0,0,AWS,0.26,183,0,4
+742,Lingaro Group,Remote in India,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+743,Cargill,Gurgaon,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+745,D Cube Analytics,Bengaluru,Data Scientist,0,1,0,0,AWS,0.034,188,0,4
+746,Deal4loans,Noida,Data Scientist,0,0,0,1,AWS,0.0005,20,0,4
+750,ValueLabs,Hyderabad,Data Scientist,1,0,0,0,AWS,0.9189,5222,0,4
+751,BigTapp,Chennai,Data Scientist,1,0,0,1,AWS,0.005,40,0,4
+752,Prevalent AI,Kochi,Data Scientist,1,1,0,1,AWS,0.05,600,0,4
+755,NSEIT,Powai,Data Scientist,1,1,0,0,AWS,0.5,531,0,4
+756,Innefu Labs Pvt. Ltd.,Delhi,DATA SCIENTIST,1,0,1,0,AWS,0.003,23,0,4
+757,Schneider Electric,Bengaluru,Data Scientist,1,1,0,1,AWS,0.0005,20,0,4
+761,[24]7.ai,Bengaluru,Data Scientist,1,1,0,0,AWS,0.0005,20,0,4
+762,NielsenIQ,Vadodara,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+763,NOVIQUE HEALTH,Mumbai,Data Scientist,0,0,0,1,AWS,0.005,25,0,4
+764,GlobalLogic,Remote in Noida,Data Scientist,0,1,0,0,AWS,0.850,2500,0,4
+765,GO-JEK,Bengaluru,Software Engineer,1,1,0,1,Both or Didnt Specift,0.086,563,0,4
+769,Infosenseglobal,Pune,Data Scientist,0,0,0,0,AWS,0.0005,250,0,4
+770,FinAcPlus,Hyderabad,Data Scientist,1,0,0,1,AWS,0.0175,139,0,4
+771,dunnhumby,Gurgaon,Data Scientist,0,0,0,0,AWS,0.444,3124,0,4
+773,RGF Professional Recruitment,Mumbai,Data Scientist,0,1,0,0,AWS,0.02,150,0,4
+774,Radware Bot Manager,Bengaluru,Data Scientist,1,1,0,1,AWS,0.216,1000,0,4
+778,iSOCRATES,Mysore,Data Scientist,0,0,0,0,AWS,0.013,52,0,4
+780,IDfy,Mumbai,ML Engineer,0,0,0,0,Azure,0.083,297,0,4
+782,Adobe,Noida,Data Engineer,1,0,1,0,Azure,12.86,11847,1,4
+783,Turbolab Technologies,Kochi,Data Scientist,0,1,0,0,AWS,0.0078,51,0,4
+784,Sequretek,Mumbai,Data Scientist,1,1,0,1,AWS,0.034,400,0,4
+786,HighRadius,Hyderabad,Data Scientist,0,0,0,0,AWS,0.25,1949,0,4
+787,Ruby Seven Studios,Kochi,Data Scientist,0,0,0,1,AWS,0.023,105,0,4
+788,NSEIT,Powai,Data Scientist,1,0,0,0,AWS,0.5,531,0,4
+791,KlearNow,Gurgaon,ML Engineer,0,0,0,0,Azure,0.0112,10,0,4
+792,GO-JEK,Bengaluru,Data Scientist,0,0,0,0,AWS,0.086,563,0,4
+793,Tredence,Gurgaon,ML Engineer,0,0,1,0,Azure,0.0302,1050,0,4
+795,Talentica Software India,Pune,Data Scientist,0,0,0,0,AWS,0.35,519,0,4
+796,AstraZeneca,Chennai,Analytics,0,0,0,0,Azure,0.0005,20,1,4
+798,ASSPL - Karnataka,Bengaluru,newApplied Scientist II,1,0,0,0,AWS,0.0005,20,0,4
+799,IQLECT,Bengaluru,Data Scientist,1,1,0,1,AWS,0.0005,19,0,4
+802,CDM Smith,Bengaluru,Data Scientist,1,0,0,0,AWS,0.952,5000,0,4
+803,Oi,Remote in Rajasthan,Data Scientist,0,0,0,0,AWS,61,2500,0,4
+804,Assassin's Creed,India,Data Scientist,0,0,0,0,AWS,1,20,0,4
+806,Vymo,Bengaluru,Member Technical Staff(Data science),1,1,0,1,Azure,0.0291,316,0,4
+807,Lingaro Group,India,ML Engineer,1,0,0,1,Azure,0.0005,20,0,4
+811,Talent Leads HR Solutions,Gurgaon,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+812,OakNorth Bank,Bengaluru,Data Scientist,1,0,0,0,AWS,0.0772,229,0,4
+813,The Smart Cube,India,Data Scientist,0,0,0,0,AWS,0.02,813,0,4
+814,CRED,Bengaluru,collections strategy and analytics,0,0,0,0,AWS,0.000069,839,0,4
+815,Buckman,Chennai,Data Scientist,0,0,0,0,AWS,0.816,20,0,4
+816,Near,Bengaluru,Data Scientist,1,1,0,0,AWS,0.0226,260,0,4
+817,TeamPlus Staffing Solution Pvt Ltd,+1 locationRemote,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+818,Tekion,Bengaluru,ML Engineer,0,1,0,1,Azure,0.576,1304,0,4
+819,Inspirion Digital Solutions,Bengaluru,NLP,0,0,0,0,Both or Didnt Specift,0.0005,20,0,4
+820,Navit Software Solutions,Hyderabad,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+822,WSD Consultant,Gurgaon,Data Scientist,0,0,0,0,AWS,0.005,25,0,4
+824,HighRadius,Bhubaneshwar,Data Scientist,0,0,1,1,AWS,0.25,1949,0,4
+825,Payoda,Coimbatore,Data Scientist,0,1,1,0,AWS,0.315,628,0,4
+826,Tekolutions.ai,India,ML Engineer,0,0,0,0,Azure,0.0005,20,0,4
+827,Protocolzone,Ahmedabad,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+832,Affine,Hyderabad,Data Scientist,0,1,0,1,AWS,0.0005,20,0,4
+834,Ericsson,Bengaluru,Data Scientist,1,1,0,0,AWS,0.0005,20,0,4
+835,OakNorth Bank,Bengaluru,Data Scientist,0,1,0,0,AWS,0.0772,229,0,4
+838,Infognana IG Solution,India,NLP,0,0,1,0,Both or Didnt Specift,0.63,326,0,4
+840,Alliance Recruitment Agency,Noida,Data Scientist,1,0,0,0,AWS,0.0005,20,0,4
+841,PNR Software Solutions,Kolkata,Data Scientist,0,0,0,1,AWS,0.023,124,0,4
+843,"Mojocare, Alpha Digital Health",Bengaluru,ML Engineer,1,0,0,1,Azure,0.0005,20,0,4
+845,Ignitarium Technology Solutions,India,Deep Learning Engineer- Audio,1,0,0,0,AWS,0.0536,289,0,4
+848,Navit Software Solutions,Hyderabad,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+849,Juniper Networks,Bengaluru,Data Scientist,0,1,0,1,AWS,5,9000,0,4
+850,TeamPlus Staffing Solution Pvt Ltd,Remote,Data Scientist,1,0,0,1,AWS,0.0005,20,0,4
+851,AutomationEdge,India,NLP,1,0,0,0,Azure,0.0313,223,0,4
+852,Indicia Worldwide,Mumbai,Data Scientist,0,1,0,0,AWS,0.0005,1000,0,4
+854,Infosenseglobal,Pune,Data Scientist,1,0,0,0,AWS,0.0005,250,0,4
+856,BluePi Consulting Pvt Ltd.,Gurgaon,ML Engineer,0,1,0,1,Azure,0.016,70,0,4
+858,Indicia Worldwide,Mumbai,Data Scientist,1,1,0,0,AWS,0.0005,1000,0,4
+860,Sony India Software Centre Pvt Ltd,Bengaluru,ML Engineer,0,0,0,1,Azure,0.0005,20,0,4
+861,Imurgence,Jamshedpur,Data Scientist,1,0,0,1,AWS,0.0005,20,0,4
+862,GO-JEK,Remote in Bengaluru,Data Scientist,1,0,0,1,AWS,0.086,563,0,4
+865,Autodesk,Bengaluru,Data Scientist,0,0,0,0,AWS,3.79,11500,0,4
+866,Credit Suisse,Pune,newENO - Accounts Payable - Finance Operations Reporting and An...,1,0,0,1,Both or Didnt Specift,0.0005,20,0,4
+867,Supro info Solution,Remote in India,Computer Vision,1,0,0,0,Azure,0.005,25,0,4
+868,Fractal.ai,Mumbai,Data Scientist,0,0,0,0,AWS,0.1,2500,0,4
+869,Aspire HR Solutions,Thiruvananthapuram,Data Scientist,0,0,0,0,AWS,0.015,90,0,4
+871,Amrita University,Coimbatore,Analytics,0,1,0,0,Both or Didnt Specift,0.196,21,1,4
+874,GO-JEK,Bengaluru,Data Scientist,0,1,1,0,AWS,0.086,563,0,4
+875,Ignitarium Technology Solutions,India,Senior Engineer- Deep Learning (DL Audio),0,0,0,0,AWS,0.0536,289,0,4
+876,Business Brio,Kolkata,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+877,Anlage Infotech,Bengaluru,Data Scientist,1,0,0,1,AWS,0.02,109,0,4
+879,Joveo,Hyderabad,Data Scientist,0,0,1,0,AWS,0.020,100,0,4
+880,Oportun Inc,Remote in Chennai,Data Scientist,1,1,0,0,AWS,0.583,"1,474",0,4
+881,Commvault,Bengaluru,Data Scientist,0,1,0,0,AWS,0.7235,2671,0,4
+882,Emerging India Group,Noida,Assistant Manager/Deputy Manager/Manager - Sales - Data Anal...,0,0,0,1,Azure,0.0005,20,0,4
+883,ARi,India,AI - ML Developer,1,1,1,1,Azure,0.908,2298,0,4
+884,Appriffy-Digital IT Hub,Bengaluru,ML Engineer,0,0,0,1,Azure,0.005,50,0,4
+885,GO-JEK,Bengaluru,Software Engineer,1,0,0,0,Azure,0.086,563,0,4
+887,Deal4loans,Noida,R Programmer,1,1,0,0,AWS,0.0005,20,0,4
+891,Acuity Knowledge Partners,Bengaluru,Data Scientist,0,1,0,1,AWS,0.0005,20,0,4
+892,VN SoftSol,Noida,Machine learning Engineers,0,0,0,0,Azure,0.0005,20,0,4
+893,Grid Logic Software Private Limited,Hyderabad,ML Engineer,0,1,0,0,Azure,0.0045,25,0,4
+898,ADCI - Karnataka,Bengaluru,Analytics,1,0,0,0,Azure,0.0005,20,1,4
+900,Foghorn Systems,Pune,Data Scientist,1,0,1,1,AWS,0.0133,83,0,4
+901,ADCI - Karnataka,Bengaluru,"Applied Scientist I, Gift Cards",1,0,0,0,AWS,0.0005,20,0,4
+903,Blue Yonder,Bengaluru,Data Scientist,1,1,0,0,AWS,0.0005,20,0,4
+904,e-con Systems,Chennai,ML Engineer,1,1,1,1,Azure,0.025,297,0,4
+905,QuEST Global Engineering,Bengaluru,NLP,0,0,0,0,AWS,0.05,11250,0,4
+909,GO-JEK,Bengaluru,Data Scientist,1,0,0,1,AWS,0.086,563,0,4
+910,Wells Fargo,Bengaluru,Analytics,1,0,0,1,AWS,0.0005,20,1,4
+911,ZS,Pune,Data Scientist,1,1,0,1,AWS,2,10000,0,4
+912,UiPath,Bengaluru,ML Engineer,1,0,0,0,Azure,0.209,3000,0,4
+915,dunnhumby,Gurgaon,Data Scientist,0,1,0,0,AWS,0.444,3124,0,4
+917,Foghorn Systems,Pune,Data Scientist,0,1,0,0,AWS,0.0133,83,0,4
+918,GridEdge Technologies,Pune,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+921,OakNorth Bank,Bengaluru,Data Scientist,0,0,0,1,AWS,0.0772,229,0,4
+922,Mind Works Global,Remote,Data Scientist,1,0,0,0,AWS,0.017,85,0,4
+924,RGF Professional Recruitment,Mumbai,Data Scientist,0,1,0,1,AWS,0.02,150,0,4
+925,Squalas,Hyderabad,ML Engineer,1,1,1,0,Azure,0.00005,10,0,4
+926,StatusNeo Technology Consulting,Gurgaon,Big Data Analyst,0,0,0,1,AWS,0.0005,20,0,4
+927,scaleorg,Bengaluru,Data Scientist,0,0,0,0,AWS,0.005,25,0,4
+928,Michael Page,Gurgaon,Data Scientist,0,0,0,0,AWS,2,6750,0,4
+929,ViaSat,Chennai,Software Engineer,1,0,0,0,Both or Didnt Specift,2.30000000000003,5800,0,4
+930,Aera Technology,Pune,Data Scientist,0,0,0,0,AWS,0.0655,465,0,4
+931,Pype,Bengaluru,ML Engineer,0,1,0,0,Azure,0.0138,95,0,4
+933,itForte,Gurgaon,Data Scientist,1,1,0,1,AWS,0.005,25,0,4
+937,Germane Analytics Pvt Ltd,Bengaluru,Data Scientist,1,1,0,0,AWS,0.005,25,0,4
+938,XoriantːIN,Pune,Data Scientist,1,0,0,1,AWS,,20,0,4
+939,DTCC,Chennai,Analytics,1,0,0,1,AWS,1.7844,4300,1,4
+940,Talent Corner HR Services Pvt. Ltd.,Bengaluru,ML Engineer,0,0,0,0,Azure,0.014,77,0,4
+943,"Sigmoid, Bengaluru",Bengaluru,Data Scientist,0,0,0,0,AWS,0.049,425,0,4
+945,Pathfinder Business Analysis,Tamil Nadu,Data Controller – Taxroll Processing,1,0,1,1,Azure,0.062,321,0,4
+947,Camsdata,Mumbai,ML Engineer,0,0,1,0,Azure,0.005,200,0,4
+948,Acesoft Labs,Bengaluru,Analytics,1,0,0,1,AWS,0.0005,20,1,4
+949,HighRadius,Hyderabad,Data Scientist,1,0,0,1,AWS,0.25,1949,0,4
+950,Logitech,Chennai,Data Scientist,0,1,0,0,AWS,5.252,9000,0,4
+952,MNF – MyNextFilm,New Delhi,Data Scientist,1,1,1,0,AWS,,20,0,4
+953,FactSet Research Systems,Hyderabad,ML Engineer,0,0,0,0,Azure,1.49,10892,0,4
+954,Innefu Labs Pvt. Ltd.,Delhi,Data Scientist,1,1,0,1,AWS,0.003,23,0,4
+955,M&G plc,Mumbai,Analytics,0,1,0,1,AWS,0.518,6000,1,4
+957,Wissen Technology,Bengaluru,ML Engineer,0,1,0,1,Azure,0.0605,746,0,4
+959,CrossML,Chandigarh,NLP,1,0,0,0,Both or Didnt Specift,0.1108,50,0,4
+960,TeamPlus Staffing Solution Pvt Ltd,Remote,Data Scientist,1,0,0,1,AWS,0.0005,20,0,4
+961,CoreStack,Chennai,ML Engineer,1,0,0,0,Azure,0.01639,147,0,4
+962,Siemens Technology and Services Private Limited,Bengaluru,Data Scientist,0,0,0,0,AWS,0.0005,20,0,4
+963,GO-JEK,Bengaluru,Decision Scientist - Driver Ops,0,0,0,0,Both or Didnt Specift,0.086,563,0,4
+965,Ignitarium Technology Solutions,India,Senior Engineer- Deep Learning (DL Audio),1,1,0,0,AWS,0.0536,289,0,4
+966,Tavant Technologies,Bengaluru,Data Scientist,1,1,0,1,AWS,0.223,2500,0,4
+969,Accrete.AI,Mumbai,NLP,1,0,1,0,Azure,0.011,82,0,4
+975,UBS,Mumbai,Data Scientist,0,0,0,1,AWS,0.0005,20,0,4
+978,iMerit,India,ML Engineer,0,1,0,0,Azure,0.0235,2894,0,4
+980,Jubna,Noida,Data Scientist,0,1,0,0,AWS,0.016,8,0,4
+981,FactSet Research Systems,Hyderabad,ML Engineer,0,1,1,0,Azure,1.49,10892,0,4
+982,Mount Talent Consulting,Gurgaon,Data Scientist,0,0,1,0,AWS,0.0005,20,0,4

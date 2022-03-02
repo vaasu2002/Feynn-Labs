@@ -1,0 +1,81 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+5,HP,Bengaluru,Data Scientist,1,1,0,0,AWS,56.64,53000,0,5
+28,Ecolab,Bengaluru,Data Scientist,0,1,0,0,AWS,14.9,50000,0,5
+30,Hewlett Packard Enterprise,Bengaluru,Data Scientist,1,0,0,0,AWS,2,59400,0,5
+49,HP,Bengaluru,Analytics,0,1,0,0,Both or Didnt Specift,56.64,53000,1,5
+55,Jacobs,Navi Mumbai,Data Scientist,0,0,0,0,AWS,"13,47",55000,0,5
+56,Cummins Inc.,Pune,newDATA SCIENTIST,1,1,0,0,Azure,23.571,"57,825",0,5
+57,CGI Inc,Bengaluru,Data Scientist,0,0,1,1,AWS,12.16,"76,000",0,5
+61,BNY Mellon,Pune,Data Scientist,1,0,0,1,Both or Didnt Specift,20.82,"48,400",0,5
+63,Ecolab,Pune,Data Scientist,1,0,0,0,Both or Didnt Specift,14.9,50000,0,5
+76,NatWest Group,Delhi,Data Scientist,0,0,0,1,Both or Didnt Specift,4.14,"59,900",0,5
+79,Amex,Gurgaon,Data Scientist,1,1,0,0,Both or Didnt Specift,36.09,"63,700",0,5
+88,GE Aviation,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,74.19,"48,000",0,5
+103,HP,Bengaluru,Data Scientist,0,1,0,0,AWS,56.64,53000,0,5
+119,GE Aviation,Bengaluru,Data Scientist,1,0,0,0,AWS,74.19,"48,000",0,5
+121,ExxonMobil,Bengaluru,Data Scientist,0,0,0,0,AWS,181.502,"72,000",0,5
+122,Morgan Stanley,Mumbai,Data Scientist,0,0,0,0,AWS,14.5,"60,000",0,5
+123,Alstom,Bengaluru,Data Scientist,0,0,0,1,AWS,5.11,"75,000",0,5
+125,Delhivery,Remote in Gurgaon,Data Scientist,0,0,0,0,AWS,0.075,"66,000",0,5
+127,Netradyne,Bengaluru,Data Scientist,1,0,0,1,AWS,13.47,55969,0,5
+131,Atlassian,Remote in Bengaluru,Analytics,1,0,0,0,Both or Didnt Specift,23.571,"56,261",1,5
+132,IHS Markit,Gurgaon,Data Scientist,0,1,1,0,AWS,12.16,"56,553",0,5
+134,Amex,Gurgaon,Data Scientist,0,0,0,0,AWS,36.09,"63,700",0,5
+135,Klevu Oy,India,Data Scientist,1,0,0,0,AWS,22.19,"56,844",0,5
+138,Airtel India,Bellandur,Data Scientist,0,0,0,1,AWS,30.859,"57,136",0,5
+142,Hewlett Packard Enterprise,Bengaluru,Data Scientist,0,0,0,1,AWS,2,59400,0,5
+145,Blackbuck,Bengaluru,Data Scientist,0,1,0,0,AWS,20.82,"57,719",0,5
+162,Airtel India,Gurgaon,ML Engineer,0,1,0,0,Azure,30.859,"57,136",0,5
+170,IHS Markit,Gurgaon,Data Scientist,0,1,0,0,AWS,12.16,"56,553",0,5
+181,BNY Mellon,Pune,Data Scientist,1,0,0,0,AWS,20.82,"48,400",0,5
+194,BNY Mellon,Pune,Data Scientist,0,0,0,1,AWS,20.82,"48,400",0,5
+196,IHS Markit,Bengaluru,Data Scientist,1,0,1,1,AWS,12.16,"56,553",0,5
+198,IHS Markit,Gurgaon,Data Scientist,0,0,0,0,AWS,12.16,"56,553",0,5
+214,Delhivery,Remote in Gurgaon,Data Scientist,0,0,0,1,Both or Didnt Specift,0.075,"66,000",0,5
+224,HP,Bengaluru,Data Scientist,1,1,1,0,Both or Didnt Specift,56.64,53000,0,5
+248,Amex,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,36.09,"63,700",0,5
+252,Airtel India,Bellandur,Data Scientist,0,0,0,0,Both or Didnt Specift,30.859,"57,136",0,5
+253,IQVIA,Bengaluru,AI Scientist 3,1,0,0,0,Both or Didnt Specift,3.298,77000,0,5
+257,Airtel India,Bellandur,Data Scientist,1,0,0,1,Both or Didnt Specift,30.859,"57,136",0,5
+274,BNY Mellon,Pune,Data Scientist,1,0,0,1,Both or Didnt Specift,20.82,"48,400",0,5
+278,Pfizer,Sholinganallur,Data Scientist,1,0,0,1,Both or Didnt Specift,41.9,78500,0,5
+287,Hewlett Packard Enterprise,Bengaluru,Analytics,1,1,0,0,Both or Didnt Specift,2,59400,1,5
+330,IHS Markit,Gurgaon,Data Scientist,1,0,0,1,Azure,12.16,"56,553",0,5
+347,Ecolab,Bengaluru,Data Scientist,0,0,0,0,Azure,14.9,50000,0,5
+354,IHS Markit,Gurgaon,Analytics,1,0,0,0,Both or Didnt Specift,12.16,"56,553",1,5
+373,Airtel India,Bellandur,Data Scientist,1,0,0,0,Azure,30.859,"57,136",0,5
+398,HP,Bengaluru,Data Scientist,1,0,0,1,Azure,56.64,53000,0,5
+407,Pfizer,Sholinganallur,Data Scientist,1,1,1,0,Both or Didnt Specift,41.9,78500,0,5
+416,Amex,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,36.09,"63,700",0,5
+447,HP,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,56.64,53000,0,5
+514,Netradyne,Bengaluru,Software Engineer,0,1,0,0,Both or Didnt Specift,13.47,55969,0,5
+519,Airtel India,Gurgaon,ML Engineer,1,0,1,1,AWS,30.859,"57,136",0,5
+520,Blackbuck,Bengaluru,Data Scientist,1,0,1,0,Both or Didnt Specift,20.82,"57,719",0,5
+521,Ecolab,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,14.9,50000,0,5
+524,Airtel India,Gurgaon,ML Engineer,0,0,1,1,AWS,30.859,"57,136",0,5
+578,Fidelity Investments,Bengaluru,Data Scientist,1,1,0,0,Azure,21,52000,0,5
+587,Pfizer,Chennai,Data Scientist,0,0,1,0,Azure,41.9,78500,0,5
+598,FIS Global,Bengaluru,Data Scientist,0,0,1,0,Azure,12,63000,0,5
+657,Trane Technologies,Bengaluru,Data Scientist,0,1,0,1,AWS,12.454,50000,0,5
+671,Alstom,Bengaluru,Data Scientist,1,1,0,1,AWS,5.11,"75,000",0,5
+699,Siemens Healthineers India LLP,Bengaluru,Data Engineer,1,0,1,0,Both or Didnt Specift,16.41,66000,1,5
+702,Hewlett Packard Enterprise,Bengaluru,Analytics,0,0,0,0,AWS,2,59400,1,5
+739,Pfizer,Chennai,Data Scientist,0,1,0,1,AWS,41.9,78500,0,5
+777,IHS Markit,Bengaluru,Data Scientist,1,0,0,0,AWS,12.16,"56,553",0,5
+810,Fidelity Investments,Bengaluru,Data Scientist,1,0,0,0,AWS,21,52000,0,5
+821,Siemens Healthineers India LLP,Bengaluru,Data Integration Specialist,0,1,0,0,AWS,16.41,66000,0,5
+828,Hewlett Packard Enterprise,Bengaluru,Analytics,0,0,0,0,Both or Didnt Specift,2,59400,1,5
+830,Siemens Healthineers,Bengaluru,Data Engineer,1,1,0,1,Both or Didnt Specift,14.46,66000,1,5
+847,BNY Mellon,Pune,Data Scientist,0,1,0,0,AWS,20.82,"48,400",0,5
+857,Cardinal Health,Bengaluru,Data Scientist,1,1,0,0,AWS,162.47,48000,0,5
+894,Cardinal Health,Bengaluru,Data Scientist,0,1,0,0,AWS,162.47,48000,0,5
+899,FIS Global,Pune,Software Engineer,0,0,0,0,Both or Didnt Specift,12,63000,0,5
+906,Morgan Stanley,Mumbai,Data Scientist,0,0,0,1,AWS,14.5,"60,000",0,5
+935,Morgan Stanley,Mumbai,Analytics,0,0,0,1,AWS,14.5,"60,000",1,5
+936,Carrier,Hyderabad,Analytics,0,0,0,0,AWS,17.46,56000,1,5
+941,Labcorp,Bengaluru,HR Business Analyst,0,1,0,1,AWS,13.9784,72400,0,5
+946,Airtel India,Gurgaon,Analytics,1,0,1,0,AWS,30.859,"57,136",1,5
+958,Ecolab,Bengaluru,Data Scientist,0,0,0,0,AWS,14.9,50000,0,5
+971,IQVIA,Bengaluru,Analytics,0,0,0,1,AWS,3.298,77000,1,5
+979,IQVIA,Bengaluru,Senior Statistical Programmer,1,0,0,1,Azure,3.298,77000,0,5
+984,Siemens Healthineers,Bengaluru,Data Integration Specialist,0,0,0,1,Both or Didnt Specift,14.46,66000,0,5

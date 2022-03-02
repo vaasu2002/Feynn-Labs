@@ -1,0 +1,123 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+0,Bosch Group,Bengaluru,Data Scientist,0,0,0,0,AWS,77.721,31000,0,0
+3,Corteva Agriscience,Hyderabad,Data Scientist,1,0,0,1,AWS,14.271,21000,0,0
+9,Orange Business Services,India,Data Scientist,1,1,0,1,AWS,8.41,21000,0,0
+12,Expleo,Pune,Data Scientist,0,0,1,1,AWS,1.5,15000,0,0
+15,Smiths Detection,Bengaluru,Data Scientist,1,1,0,1,AWS,2.793,14600,0,0
+16,DBS Bank,Maharashtra,Data Scientist,1,0,0,0,AWS,10.28,24174,0,0
+20,DBS Bank,Tamil Nadu,Data Scientist,1,1,0,1,AWS,10.28,24174,0,0
+24,MasterCard,Gurgaon,Data Scientist,1,1,0,0,AWS,18.88,24000,0,0
+26,Qualfon,India,Data Scientist,0,0,0,0,AWS,0.4,16000,0,0
+33,Sutherland,Hyderabad,Analytics,1,1,0,1,AWS,1.1,28856,1,0
+37,Sutherland,Hyderabad,Analytics,1,0,0,0,Azure,1.1,28856,1,0
+42,Visa,Bengaluru,Data Scientist,1,1,0,0,AWS,21.85,20500,0,0
+43,HDFC Life,Bengaluru,Data Scientist,1,1,0,0,AWS,0.22,16544,0,0
+58,Philips,Bengaluru,Data Scientist,0,1,0,0,AWS,22.19,"21,483",0,0
+65,Bosch Group,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,77.721,31000,0,0
+69,Bosch Group,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,77.721,31000,0,0
+72,Uber,Hyderabad,Data Scientist,1,1,0,0,Both or Didnt Specift,1.13,"22,800",0,0
+74,Signify,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,2.008,"37,000",0,0
+82,Bosch Group,Bengaluru,Data Scientist,1,0,0,1,Both or Didnt Specift,77.721,31000,0,0
+86,Ford Global Business Services,Chennai,Data Scientist,0,0,0,0,Both or Didnt Specift,127,"14,000",0,0
+91,Lam Research,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,4.2266,"14,100",0,0
+94,Bosch Group,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,77.721,31000,0,0
+102,Boston Consulting Group,New Delhi,Data Scientist,0,1,0,0,AWS,8.60,"21,000",0,0
+105,Brose,Hinjawadi,Data Scientist,0,0,0,0,AWS,1.89,"25,000",0,0
+109,Maruti Suzuki India Ltd,Gurgaon,Data Scientist,1,1,0,0,AWS,10,"19,945",0,0
+128,Uber,Hyderabad,Data Scientist,1,0,0,1,AWS,1.13,"22,800",0,0
+130,Signify,Bengaluru,Data Scientist,0,0,0,1,AWS,2.008,"37,000",0,0
+136,Qualfon,India,Data Scientist,0,0,0,0,AWS,0.4,16000,0,0
+150,Amazon Dev Center India - Hyd,India,Data Scientist,0,0,0,0,AWS,5,15000,0,0
+154,HGS,Bengaluru,ASSOCIATE DATA SCIENTIST,1,1,0,1,Azure,0.753,41110,0,0
+157,S&P Global,Ahmedabad,Data Scientist,0,1,0,1,AWS,6.036,22500,0,0
+163,Assurant,Mumbai,Data Scientist,1,1,0,1,AWS,10.094,14250,0,0
+166,Boston Consulting Group,New Delhi,Data Scientist,0,1,0,0,AWS,8.60,"21,000",0,0
+167,Bosch Group,Bengaluru,Data Scientist,1,0,0,1,AWS,77.721,31000,0,0
+169,Clariant,Airoli,Data Scientist,1,0,0,0,AWS,6.623,17901,0,0
+175,Visa,Bengaluru,Data Scientist,0,0,0,0,AWS,21.85,20500,0,0
+184,Micron,Hyderabad,ENGINEER - DATA SCIENCE,0,0,0,1,Both or Didnt Specift,21.44,40000,0,0
+186,Bosch Group,Bengaluru,Data Scientist,1,0,0,0,AWS,77.721,31000,0,0
+188,DBS Bank,Telangana,ML Engineer,1,0,0,1,Azure,10.28,24174,0,0
+189,HDFC Life,Bengaluru,Data Scientist,0,0,0,1,AWS,0.22,16544,0,0
+195,Visa,Bengaluru,Data Scientist,1,0,0,0,AWS,21.85,20500,0,0
+197,Visa,Bengaluru,Data Scientist,0,1,0,0,AWS,21.85,20500,0,0
+205,Syneos Health Clinical,Hyderabad,Data Scientist,1,1,0,1,Both or Didnt Specift,4.676,23000,0,0
+208,Bayer,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,41.4,26000,0,0
+238,PayPal,Chennai,Data Scientist,0,0,0,0,Both or Didnt Specift,25.37,26500,0,0
+242,Sutherland,Hyderabad,Analytics,1,1,0,0,Both or Didnt Specift,1.1,28856,1,0
+263,Philips,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,22.19,"21,483",0,0
+265,Sutherland,Navi Mumbai,PROF-ASSOC-PRO-ANALYT - Associate Professional - Data Scient...,0,0,0,0,Both or Didnt Specift,1.1,28856,0,0
+282,Brose,Hinjawadi,Data Scientist,0,0,0,0,Both or Didnt Specift,1.89,"25,000",0,0
+303,Philips,Bengaluru,Software Engineer,0,0,1,1,Azure,22.19,"21,483",0,0
+307,Sutherland,Bengaluru,Analytics,1,0,0,1,AWS,1.1,28856,1,0
+334,Philips,Bengaluru,Data Scientist,0,1,0,1,Azure,22.19,"21,483",0,0
+345,Sutherland,Bengaluru,Analytics,0,0,0,0,Both or Didnt Specift,1.1,28856,1,0
+353,Lam Research,Bengaluru,Data Scientist,0,0,1,0,Azure,4.2266,"14,100",0,0
+356,S&P Global,Hyderabad,Associate Director(Big Data & Cloud),0,0,0,1,AWS,6.036,22500,0,0
+409,S&P Global,Mumbai,Data Scientist,1,1,0,1,Both or Didnt Specift,6.036,22500,0,0
+410,Goldman Sachs,Bengaluru,Analytics,0,0,0,0,Both or Didnt Specift,44.6,40500,1,0
+411,PayPal,Chennai,Data Scientist,0,0,0,0,Both or Didnt Specift,25.37,26500,0,0
+412,Merkle,Pune,Data Scientist,0,0,0,0,Both or Didnt Specift,1,14000,0,0
+421,Bayer,Bengaluru,Analytics,0,1,0,0,Both or Didnt Specift,41.4,26000,1,0
+426,Vodafone Idea,Mumbai,Data Scientist,0,0,0,0,Both or Didnt Specift,0.0005,13520,0,0
+427,Merkle,Pune,Data Scientist,1,0,0,0,Both or Didnt Specift,1,14000,0,0
+435,Micron,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,21.44,40000,0,0
+442,Ford Global Business Services,Chennai,Analytics,0,0,0,0,AWS,127,"14,000",1,0
+444,Visa,Bengaluru,Data Scientist,0,1,0,1,Both or Didnt Specift,21.85,20500,0,0
+450,Merkle,Pune,Data Scientist,1,0,0,1,Both or Didnt Specift,1,14000,0,0
+456,Micron,Hyderabad,DATA SCIENTIST/ SR DATA SCIENTIST SMART MFG & AI,0,0,0,1,AWS,21.44,40000,0,0
+458,Micron,Bengaluru,"MANAGER, F10 DATA SCIENCE",1,0,0,1,Both or Didnt Specift,21.44,40000,0,0
+460,Yara,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,14.44,17000,0,0
+471,Hella,Pune,MACHINE LEARNING - DATA SCIENTIST,1,1,0,1,Both or Didnt Specift,7,36000,0,0
+476,VMware,Bengaluru,Data Scientist,0,0,1,1,Both or Didnt Specift,11.78,34000,0,0
+484,Maruti Suzuki India Ltd,Gurgaon,Data Scientist,0,0,0,1,Both or Didnt Specift,10,"19,945",0,0
+494,Lam Research,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,4.2266,"14,100",0,0
+500,Visa,Mumbai,Data Scientist,1,1,0,1,Both or Didnt Specift,21.85,20500,0,0
+501,Unisys,Bengaluru,ML Engineer,0,1,0,1,AWS,2,17200,0,0
+502,S&P Global,Hyderabad,Data Engineer,0,0,0,1,Both or Didnt Specift,6.036,22500,1,0
+505,Micron,Hyderabad,ENGINEER - DATA SCIENCE,1,0,0,0,Both or Didnt Specift,21.44,40000,0,0
+526,Maruti Suzuki India Ltd,Bengaluru,Data Scientist,1,0,1,0,Both or Didnt Specift,10,"19,945",0,0
+534,PayPal,Chennai,Machine learning Scientist,0,0,0,0,AWS,25.37,26500,0,0
+541,TARGET,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,99.6,40900,0,0
+551,TARGET,Bengaluru,Analytics,0,0,0,1,Both or Didnt Specift,99.6,40900,1,0
+556,Sutherland,Bengaluru,Analytics,1,0,0,0,Both or Didnt Specift,1.1,28856,1,0
+566,Vodafone Idea,Mumbai,Data Scientist,0,0,0,1,Azure,0.0005,13520,0,0
+567,S&P Global,Hyderabad,Data Scientist,0,0,0,1,Azure,6.036,22500,0,0
+579,Uber,Bengaluru,Analytics,1,1,0,0,Azure,1.13,"22,800",1,0
+590,General Mills,Remote in Mumbai,Data Scientist,0,0,0,0,Azure,18,33600,0,0
+608,Lam Research,Bengaluru,Data Scientist,1,1,0,0,AWS,4.2266,"14,100",0,0
+619,Eli Lilly,Bengaluru,AADS LCCI Manager - ML scientist,1,1,0,1,Azure,27,34914,0,0
+625,Micron,Hyderabad,Data Scientist,0,0,0,0,AWS,21.44,40000,0,0
+627,General Mills,Remote in Mumbai,Data Scientist,0,1,0,1,AWS,18,33600,0,0
+635,Thomson Reuters,Bengaluru,Analytics,1,1,0,1,Azure,6,24000,1,0
+643,Carlson Wagonlit Travel,Remote in Gurgaon,Analytics,0,0,0,0,AWS,1.5,18000,1,0
+681,Amazon Dev Center India - Hyd,Bengaluru,Data Scientist,0,0,0,1,AWS,5,15000,0,0
+692,Eli Lilly,Bengaluru,Analytics,1,1,0,1,Both or Didnt Specift,27,34914,1,0
+714,ServiceNow,Remote in Hyderabad,Software Engineer,1,0,1,0,Azure,4.51,15000,0,0
+720,Vodafone Idea,Mumbai,Data Scientist,0,0,0,0,AWS,0.0005,13520,0,0
+723,Randstad,Bengaluru,junior data scientist,1,1,0,0,Both or Didnt Specift,27.02,38820,0,0
+728,Boston Consulting Group,Chennai,Data Scientist,0,0,0,0,AWS,8.60,"21,000",0,0
+738,Weatherford,Mumbai,DATA SCIENTIST,1,1,0,0,Azure,3.685,17200,0,0
+747,Bayer,Bengaluru,Analytics,1,0,1,0,Both or Didnt Specift,41.4,26000,1,0
+748,Orange Business Services,India,ML Engineer,1,1,0,0,Azure,8.41,21000,0,0
+749,General Mills,Remote in Mumbai,Data Scientist,0,1,0,1,AWS,18,33600,0,0
+759,Sutherland,Chennai,ML Engineer,1,0,0,0,Azure,1.1,28856,0,0
+768,MSCI Inc,Mumbai,Data Scientist,1,0,0,0,AWS,1.69,40000,0,0
+772,Lam Research,Bengaluru,Data Scientist,1,1,0,1,AWS,4.2266,"14,100",0,0
+775,Sutherland,Bengaluru,Analytics,0,0,0,1,Both or Didnt Specift,1.1,28856,1,0
+790,Goldman Sachs,Bengaluru,Analytics,0,0,0,0,Both or Didnt Specift,44.6,40500,1,0
+797,Wolters Kluwer,Pune,Data Scientist,1,0,0,0,AWS,5.22,19200,0,0
+800,Seagate Technology,Pune,Staff Engineer - Big Data,0,0,0,0,Both or Didnt Specift,10.68,40000,0,0
+809,Amazon Dev Center India - Hyd,Bengaluru,Data Scientist,0,0,0,0,AWS,5,15000,0,0
+831,Sutherland,Navi Mumbai,PROF-ASSOC-PRO-ANALYT - Associate Professional - Data Scient...,1,1,0,0,Azure,1.1,28856,0,0
+833,Bajaj FinServ,Pune,Data Scientist,1,0,0,0,AWS,7.2,26969,0,0
+836,Unisys,Bengaluru,ML Engineer,0,0,0,0,Azure,2,17200,0,0
+837,Yara,Bengaluru,Data Scientist,0,0,0,0,AWS,14.44,17000,0,0
+863,VMware,Bengaluru,Data Scientist,0,1,0,1,AWS,11.78,34000,0,0
+870,MasterCard,Pune,"Manager, Product Management, AI Express and Brighterion",1,0,0,0,AWS,18.88,24000,0,0
+873,Carlson Wagonlit Travel,Remote in Gurgaon,Analytics,0,0,1,0,Azure,1.5,18000,1,0
+888,Sutherland,Chennai,Lead,1,0,0,0,Both or Didnt Specift,1.1,28856,0,0
+889,General Mills,Remote in Mumbai,Data Scientist,0,1,1,0,AWS,18,33600,0,0
+916,Danfoss,Chennai,"Specialist, Digital GP&L",1,0,0,0,Azure,7,37000,0,0
+970,Uber,Bengaluru,Analytics,0,0,0,0,Azure,1.13,"22,800",1,0
+977,General Mills,Remote in Mumbai,Data Scientist,1,1,0,1,AWS,18,33600,0,0

@@ -1,0 +1,74 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+1,Standard Chartered,Chennai,Data Scientist,1,0,0,1,AWS,14.701,85000,0,3
+10,Maersk,Pune,Data Scientist,0,0,0,1,AWS,39,83000,0,3
+27,Kyndryl,India,Data Scientist,0,1,0,0,AWS,18.6,90000,0,3
+46,Kyndryl,India+1 location,Data Scientist,0,1,0,0,AWS,18.6,90000,0,3
+52,Honeywell,Hyderabad,Data Scientist,1,0,0,1,AWS,32.392,103000,0,3
+53,Intel,Bengaluru,Software Engineer,0,0,0,0,AWS,79.02,121100,0,3
+59,SAP,Gurgaon,Data Scientist,1,0,0,0,AWS,0.030859,"1,07,415",0,3
+89,Shell,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,26.150,"86,000",0,3
+90,Intel,Bengaluru,Analytics,0,1,0,0,Both or Didnt Specift,79.02,121100,1,3
+100,Vodafone,Pune,newDeputy Manager_Assitant Lead-ERP_Data scientist_Pune,1,0,0,0,Azure,50.011,"93,000",0,3
+101,Standard Chartered,Chennai,Data Scientist,1,1,0,1,AWS,14.701,85000,0,3
+107,Intel,Bengaluru,Data Scientist,1,0,0,0,AWS,79.02,121100,0,3
+114,thyssenkrupp India Pvt. Ltd.,Pune,Data Scientist,0,0,1,1,AWS,32.384,"1,03,598",0,3
+118,Vodafone,Pune,Data Scientist,1,0,0,0,AWS,50.011,"93,000",0,3
+124,GSK,Bengaluru,Data Scientist,0,1,1,0,AWS,11.644,"94,000",0,3
+129,Honeywell,Bengaluru,Data Scientist,0,0,0,0,AWS,32.392,103000,0,3
+139,Vodafone,Pune,Data Scientist,1,1,0,1,AWS,50.011,"93,000",0,3
+140,Honeywell,Bengaluru,Data Scientist,1,0,0,0,AWS,32.392,103000,0,3
+149,Michelin,Pune,Computer Vision,0,1,0,0,Both or Didnt Specift,26.015,127000,0,3
+177,Medtronic,Telangana,Data Scientist,1,0,0,0,AWS,30.117,104950,0,3
+179,Honeywell,Bengaluru,Data Scientist,0,1,0,1,AWS,32.392,103000,0,3
+192,Vodafone,Pune,Data Scientist,1,1,0,1,AWS,50.011,"93,000",0,3
+193,Intel,Bengaluru,Analytics,1,0,1,0,Azure,79.02,121100,1,3
+203,Standard Chartered,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,14.701,85000,0,3
+226,Medtronic,Nanakramguda,Data Scientist,0,0,0,0,Both or Didnt Specift,30.117,104950,0,3
+234,Vodafone,Pune,Data Scientist,0,1,0,1,Both or Didnt Specift,50.011,"93,000",0,3
+284,Shell,Chennai,Data Scientist,0,0,0,0,Both or Didnt Specift,26.150,"86,000",0,3
+362,Kyndryl,Hyderabad,Data Scientist,0,1,0,0,Azure,18.6,90000,0,3
+432,Novartis,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,49.89,104323,0,3
+453,Couche-Tard,Gurgaon,Data Scientist,1,0,0,0,Both or Didnt Specift,45.76,124000,0,3
+461,Novartis,Hyderabad,Data Scientist,1,0,0,1,Both or Didnt Specift,49.89,104323,0,3
+465,ABB,Bengaluru,Data Scientist,1,1,0,0,Both or Didnt Specift,28.9,105000,0,3
+475,Vodafone,Pune,Data Scientist,1,0,0,1,Both or Didnt Specift,50.011,"93,000",0,3
+478,HDFC Bank,Mumbai,Data Scientist,0,1,1,0,Both or Didnt Specift,16,120093,0,3
+511,Novartis,Hyderabad,Data Scientist,0,1,0,0,Both or Didnt Specift,49.89,104323,0,3
+532,thyssenkrupp India Pvt. Ltd.,Pune,Data Scientist,1,0,0,0,Both or Didnt Specift,32.384,"1,03,598",0,3
+546,HDFC Bank,Mumbai,Data Scientist,1,0,0,0,Both or Didnt Specift,16,120093,0,3
+569,Standard Chartered,Bengaluru,Data Scientist,1,0,1,0,Azure,14.701,85000,0,3
+580,Emerson,Pune,Data Scientist,0,0,0,0,Azure,18,86700,0,3
+632,Genpact,Noida,Manager - Predictive Modeling,0,0,1,0,Both or Didnt Specift,3.70,96500,0,3
+639,ABB,Bengaluru,Data Scientist,1,1,0,0,AWS,28.9,105000,0,3
+662,Novartis,Hyderabad,Data Scientist,1,0,0,1,AWS,49.89,104323,0,3
+689,Standard Chartered,Bengaluru,Analytics,1,0,0,1,Both or Didnt Specift,14.701,85000,1,3
+695,ABB,Bengaluru,Data Scientist,0,1,0,0,AWS,28.9,105000,0,3
+712,Caterpillar,Chennai,Analytics,0,1,0,0,Azure,41.74,97300,1,3
+731,Caterpillar,Chennai,Analytics,1,0,0,1,AWS,41.74,97300,1,3
+744,Standard Chartered,Bengaluru,Data Scientist,1,0,0,0,AWS,14.701,85000,0,3
+754,SAP,Bengaluru,ML Engineer,0,1,0,0,Azure,0.030859,"1,07,415",0,3
+758,Vodafone,Pune,Analytics,0,1,0,1,Azure,50.011,"93,000",1,3
+767,ABB,Bengaluru,Analytics,1,0,0,0,Both or Didnt Specift,28.9,105000,1,3
+785,Genpact,Bengaluru,Data Scientist,1,0,0,1,AWS,3.70,96500,0,3
+789,Honeywell,Hyderabad,Advanced AI Engr,1,0,0,0,AWS,32.392,103000,0,3
+794,Genpact,Gurgaon,Data Scientist,1,0,0,0,AWS,3.70,96500,0,3
+805,Novartis,Hyderabad,Analytics,0,0,0,0,Azure,49.89,104323,1,3
+829,Couche-Tard,Gurgaon,Data Scientist,1,0,0,0,AWS,45.76,124000,0,3
+839,Standard Chartered,Bengaluru,Data Scientist,0,1,0,0,AWS,14.701,85000,0,3
+842,Genpact,Noida,Data Scientist,0,0,0,0,AWS,3.70,96500,0,3
+844,Standard Chartered,Bengaluru,Data Scientist,0,0,0,0,AWS,14.701,85000,0,3
+846,Novartis,Hyderabad,Data Scientist,1,0,0,0,AWS,49.89,104323,0,3
+855,Vodafone,Pune,Data Scientist,1,0,0,0,AWS,50.011,"93,000",0,3
+859,Genpact,Bengaluru,Data Scientist,1,1,0,0,AWS,3.70,96500,0,3
+864,Genpact,Bengaluru,Data Scientist,0,1,0,0,AWS,3.70,96500,0,3
+878,Kyndryl,Hyderabad,Data Scientist,0,0,0,0,AWS,18.6,90000,0,3
+886,Standard Chartered,Chennai,Data Scientist,0,1,0,0,AWS,14.701,85000,0,3
+890,Emerson,Pune,Data Scientist,1,0,0,1,AWS,18,86700,0,3
+895,Novartis,Hyderabad,Data Scientist,1,0,0,1,AWS,49.89,104323,0,3
+907,Genpact,Pune,Consultant,0,0,0,0,AWS,3.70,96500,0,3
+908,Genpact,Noida,Data Scientist,1,0,0,0,AWS,3.70,96500,0,3
+913,Standard Chartered,Bengaluru,Analytics,1,1,0,0,Both or Didnt Specift,14.701,85000,1,3
+920,EATON,Hadapsar,Data Scientist,1,1,0,0,AWS,17.86,85000,0,3
+923,Kyndryl,Bengaluru,Data Engineer,0,1,0,0,AWS,18.6,90000,1,3
+967,Maersk,Pune,Analytics,1,1,1,1,AWS,39,83000,1,3
+973,Novartis,Hyderabad,Analytics,0,0,0,1,Azure,49.89,104323,1,3

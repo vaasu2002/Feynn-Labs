@@ -1,0 +1,39 @@
+,Company Name,Location.1,JOB,Python,SQL,R language,Linux,Cloud,Revenue,No of employee,Tablue,Clusters
+4,UnitedHealth Group,Bengaluru,Data Scientist,1,0,0,0,AWS,285.1,300000,0,6
+6,Deloitte,Bengaluru,Data Scientist,1,0,0,1,AWS,50.2,334800,0,6
+25,Deloitte,Bengaluru,Data Scientist,1,1,1,0,AWS,50.2,334800,0,6
+32,EY,Gurgaon,Data Scientist,1,1,0,0,AWS,40,312250,0,6
+78,Deloitte,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,50.2,334800,0,6
+111,Deloitte,Bengaluru,Data Scientist,0,1,0,0,AWS,50.2,334800,0,6
+144,Deloitte,Bengaluru,Data Scientist,0,1,0,1,AWS,50.2,334800,0,6
+173,Siemens,Pune,Data Scientist,0,1,1,0,AWS,70.67,303000,0,6
+187,Tesco,Bengaluru,Data Scientist,0,1,0,0,AWS,78.80,367321,0,6
+204,Deloitte,Gurgaon,Data Scientist,1,1,0,0,Both or Didnt Specift,50.2,334800,0,6
+211,Deloitte,Bengaluru,Data Scientist,0,1,0,0,Both or Didnt Specift,50.2,334800,0,6
+218,Deloitte,Bengaluru,ML Engineer,1,1,0,0,Azure,50.2,334800,0,6
+223,Tesco,Bengaluru,Data Scientist,1,1,0,1,Both or Didnt Specift,78.80,367321,0,6
+225,Tesco,Bengaluru,Data Scientist,0,0,0,1,Both or Didnt Specift,78.80,367321,0,6
+271,EY,Bengaluru,NLP,1,0,0,0,Both or Didnt Specift,40,312250,0,6
+294,Deloitte,Bengaluru,Data Scientist,0,0,0,0,Both or Didnt Specift,50.2,334800,0,6
+327,UnitedHealth Group,Noida,Data Scientist,0,1,0,0,Azure,285.1,300000,0,6
+340,Deloitte,Bengaluru,Analytics,0,0,0,0,Both or Didnt Specift,50.2,334800,1,6
+359,Deloitte,Hyderabad,Data Scientist,0,0,0,1,Azure,50.2,334800,0,6
+388,EY,Bengaluru,NLP,0,1,0,0,Both or Didnt Specift,40,312250,0,6
+397,Deloitte,Bengaluru,Analytics,0,1,0,1,Both or Didnt Specift,50.2,334800,1,6
+414,EY,Kolkata,Analytics,1,0,0,0,AWS,40,312250,1,6
+425,Siemens,Pune,Data Scientist,0,0,0,0,Both or Didnt Specift,70.67,303000,0,6
+434,Deloitte,Bengaluru,Data Scientist,1,0,0,0,Both or Didnt Specift,50.2,334800,0,6
+481,Deloitte,Hyderabad,Analytics,0,0,1,0,Both or Didnt Specift,50.2,334800,1,6
+487,EY,Kolkata,Analytics,1,0,0,0,Both or Didnt Specift,40,312250,1,6
+622,PepsiCo,Hyderabad,Teradata developer - Data Harmonization (CPG/ FMCG),1,0,0,0,Azure,70.37,309000,0,6
+663,Siemens,Bengaluru,Data Scientist,0,0,0,1,AWS,70.67,303000,0,6
+667,EY,Bengaluru,ML Engineer,1,0,0,1,Azure,40,312250,0,6
+703,UnitedHealth Group,Noida,Data Scientist,0,0,1,0,AWS,285.1,300000,0,6
+715,Deloitte,Hyderabad,USI-EH22-EA-Client and Market Growth- Research and Insights-...,0,1,0,0,AWS,50.2,334800,0,6
+741,Deloitte,Bengaluru,Analytics,1,1,1,0,Azure,50.2,334800,1,6
+753,EY,Thiruvananthapuram,ML Engineer,1,0,0,0,Azure,40,312250,0,6
+781,Deloitte,Bengaluru,Assistant Manager - AI Systems Data Architect - Bengaluru/Gu...,1,0,0,1,AWS,50.2,334800,0,6
+932,Deloitte,Bengaluru,D&AM- Predictive Modeling / AI - ML-LSA/SSA,1,1,0,0,Both or Didnt Specift,50.2,334800,0,6
+944,Siemens,Bengaluru,Data Scientist,1,1,0,0,AWS,70.67,303000,0,6
+951,Deloitte,Bengaluru,Assistant Manager - AI Systems Data Architect - Bengaluru/Gu...,1,1,0,0,AWS,50.2,334800,0,6
+956,Siemens,Pune,ML Engineer,0,0,0,0,Azure,70.67,303000,0,6
